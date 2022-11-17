@@ -1,2 +1,2 @@
-# Penguin
-Penguin is a music bot and some more things
+# Zeta
+Zeta is a bot managed by Team Delta
