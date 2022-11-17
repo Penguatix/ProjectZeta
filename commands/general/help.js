@@ -2,7 +2,7 @@ const Discord = require('discord.js');
 module.exports = {
   name: "help",
   run: async (client, message, args) => {
-    const customprefix = await client.db.get(`customprefix_${message.author.id}`)
+    const customprefix = "pw!"
     var p = customprefix ? customprefix : client.config.prefix
     const infoEmbed = new Discord.MessageEmbed()
 	    .setColor('#57a3bd')
