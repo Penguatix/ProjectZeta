@@ -67,3 +67,8 @@ for (const file of distubeEvents) {
 }
 
 client.login(process.env.CLIENT_TOKEN)
+const express = require("express")()
+express.all('/', function(req, res) {
+  res.send("Server Started")
+})
+express.listen(process.env.PORT, console.log("Started"))
