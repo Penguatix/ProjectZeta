@@ -14,9 +14,9 @@ module.exports = {
      .addFields(
 	 	  { name: '━━ 🎶 ・ Music commands ━━', value: `\`${p}play\`, \`${p}stop\`, \`${p}skip\`, \`${p}forceskip\`, \`${p}queue\`, \`${p}nowplaying\`, \`${p}pause\`, \`${p}resume\`, \`${p}prefix\`` },
       { name: '឵឵  ឵឵  ឵឵', value: '឵឵  ឵឵  ឵឵'},
-      { name: '━━ 🤖 ・ General commands ━━', value: `\`${p}ping\`, \`${p}help\`, \`${p}snipe\`` },
+      { name: '━━ 🤖 ・ General commands ━━', value: `\`${p}help\`, \`${p}ping\`, \`${p}snipe\`` },
       { name: '឵឵  ឵឵  ឵឵', value: '឵឵  ឵឵  ឵឵'},
-      { name: '━━ 🎈 ・ Fun commands ━━', value: `\`${p}8ball\`, \`${p}say\`, \`${p}youtube\`, \`${p}meme\`, \`${p}coinflip\``},
+      { name: '━━ 🎈 ・ Fun commands ━━', value: `\`${p}8ball\`, \`${p}say\`, \`${p}meme\`, \`${p}coinflip\``},
       { name: '឵឵  ឵឵  ឵឵', value: '឵឵  ឵឵  ឵឵'},
       { name: '━━ 📸 ・ Image commands ━━', value: `\`${p}beautiful\`, \`${p}trash\`, \`${p}wanted\`, \`${p}slap\`, \`${p}hitler\`, \`${p}invert\`, \`${p}triggered\``},
       { name: '឵឵  ឵឵  ឵឵', value: '឵឵  ឵឵  ឵឵'},   
