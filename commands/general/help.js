@@ -7,7 +7,6 @@ module.exports = {
 	    .setColor('#57a3bd')
 	    .setTitle('Invite')
     .setURL('https://discord.com/api/oauth2/authorize?client_id=1042462599331201056&permissions=8&scope=bot%20applications.commands')
-    .setProvider('name?: Invite URL?: https://discord.com/api/oauth2/authorize?client_id=1042462599331201056&permissions=8&scope=bot%20applications.commands')
       .setDescription(`
         Commands Available :
       `)
